@@ -32,3 +32,14 @@
    box-shadow: 5px 5px 5px gray;
    margin-top: 160px;
  }
+ .copy_right_footer{
+    position: fixed;
+    color:white;
+    width:100%;
+    bottom: 0;
+    background-color: rgb(84, 54, 182);
+    line-height: 3;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 16px;
+ }
